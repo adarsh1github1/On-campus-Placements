@@ -1,0 +1,4 @@
+Question - Shortest ditance between given source and destination in a matrix. Can only go on * , cannot go on 0's .
+
+Approach - BFS
+
